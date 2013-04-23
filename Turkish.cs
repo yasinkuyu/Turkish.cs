@@ -39,8 +39,8 @@ namespace Insya.Turkish
         Dictionary<string, string> MINOR_HARMONY_FOR_FUTURE = new
         Dictionary<string, string>()
         {
-            { "a", "a" },
-          { "e", "e" },
+            	{ "a", "a" },
+          	{ "e", "e" },
 	        { "ö", "e" },
 	        { "o", "a" },
 	        { "ı", "a" },
@@ -51,7 +51,7 @@ namespace Insya.Turkish
 
         List<string> EXCEPTION_WORDS = new List<string>()
         { 
-    		  "kontrol", "bandrol", "banal", "alpul", "ametal", "anormal", "amiral"
+    	      "kontrol", "bandrol", "banal", "alpul", "ametal", "anormal", "amiral"
             , "sadakat", "santral", "şefkat", "usul", "normal", "oryantal", "hakikat"
             , "hayal", "saat", "kemal", "gol", "kalp", "metal", "faul", "mineral", "alkol"
             , "misal", "meal", "oramiral", "tuğamiral", "orjinal", "koramiral", "general"
