@@ -1,9 +1,9 @@
-
 # NET Turkish Suffix Library (C#)
 
 
 ## Using
-  
+    @using Insya.Turkish;
+
     Turkish tr = new Turkish();
   
     Console.WriteLine(tr.makeGenitive("Öykü", new { proper_noun = true }));
