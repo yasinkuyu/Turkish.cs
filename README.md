@@ -1,5 +1,8 @@
 # NET Turkish Suffix Library (C#)
 
+## Install Package
+
+    PM> Install-Package Turkce
 
 ## Using
     @using Insya.Turkish;
