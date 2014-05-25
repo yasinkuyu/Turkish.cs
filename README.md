@@ -1,4 +1,4 @@
-# Turkish Suffix Library (C#)
+# Turkish Suffix 
 
 ## Install Package
 
