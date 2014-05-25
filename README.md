@@ -1,4 +1,4 @@
-# NET Turkish Suffix Library (C#)
+# Turkish Suffix Library (C#)
 
 ## Install Package
 
@@ -49,6 +49,9 @@
 ## Turkish Grammar
  * Turkish is a highly agglutinative language, i.e., Turkish words have many grammatical suffixes or endings that determine meaning. Turkish vowels undergo vowel harmony. When a suffix is attached to a stem, the vowel in the suffix agrees in frontness or backness and in roundedness with the last vowel in the stem. Turkish has no gender.
  * [More Info](http://en.wikipedia.org/wiki/Turkish_grammar)
+
+## Türkçe açıklamalar
+    http://www.yasinkuyu.net/c-ile-turkce-cekim-ve-yapim-ekleri
 
 ## Author
  * Yasin Kuyu
