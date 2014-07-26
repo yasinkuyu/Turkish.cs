@@ -3,7 +3,7 @@
  * Date: 24.03.2013
  */
 
-namespace Insya.Turkish
+namespace Insya
 {
 
     using System;
