@@ -5,7 +5,7 @@
     PM> Install-Package Turkce
 
 ## Using
-    @using Insya.Turkish;
+    @using Insya;
 
     Turkish tr = new Turkish();
   
