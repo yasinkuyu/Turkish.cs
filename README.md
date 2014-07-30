@@ -58,6 +58,8 @@
  * [Follow me at Twitter](http://twitter.com/#!/yasinkuyu)
 
   
-  
+      Javascript Version
+      https://github.com/yasinkuyu/Turkish.js
+      
       Python Version
       https://github.com/miklagard/Turkish-Suffix-Library
