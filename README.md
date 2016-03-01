@@ -57,9 +57,15 @@
  * Yasin Kuyu
  * [Follow me at Twitter](http://twitter.com/#!/yasinkuyu)
 
-  
-      Javascript Version
-      https://github.com/yasinkuyu/Turkish.js
-      
-      Python Version
-      https://github.com/miklagard/Turkish-Suffix-Library
+    
+    Javascript Version
+    https://github.com/yasinkuyu/Turkish.js
+    
+    PHP Version
+    https://github.com/yasinkuyu/Turkish.php
+    
+    C# Version 
+    https://github.com/yasinkuyu/Turkish.cs
+    
+    Python Version
+    https://github.com/miklagard/Turkish-Suffix-Library
